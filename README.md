@@ -23,6 +23,10 @@ travel_planner_agent/
 └── README.md
 ``````
 
+## Data sources
+
+* World cities dataset: https://datahub.io/core/world-cities
+* Unesco world heritage sites: https://www.kaggle.com/datasets/ujwalkandi/unesco-world-heritage-sites
 
 ## Prerequisites
 
