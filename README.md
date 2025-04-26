@@ -2,6 +2,14 @@
 
 An interactive command-line Travel Planner Agent built with the OpenAI Agents SDK and simple local datasets.
 
+<iframe
+  width="560" height="315"
+  src="https://www.youtube.com/embed/bfFInTrAeiA"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 ## Features
 
 Agentic tool selection: dynamically chooses the right function based on your query
