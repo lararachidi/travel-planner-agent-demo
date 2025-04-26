@@ -8,13 +8,19 @@ Agentic tool selection: dynamically chooses the right function based on your que
 
 ## Project Structure
 
-travel_planner_agent/        # Project root
-├── data/                    # Local CSV datasets
+## Project Structure
+
+```text
+travel_planner_agent/
+├── data/
 │   ├── worldcities.csv
 │   ├── unesco_world_heritage.csv
-├── travel_planner_agent.py  # Main agent script
-├── requirements.txt         # Python dependencies
-└── README.md                # This file
+│   └── hotels.csv
+├── travel_planner_agent.py
+├── requirements.txt
+└── README.md
+``````
+
 
 ## Prerequisites
 
@@ -27,6 +33,7 @@ travel_planner_agent/        # Project root
 * Clone the repo:
 
 git clone [https://github.com/your-username/travel_planner_agent-demo.git](https://github.com/lararachidi/travel-planner-agent-demo.git)
+
 cd travel_planner_agent
 
 ## Create & activate a virtual environment
@@ -62,7 +69,7 @@ Type queries like:
 
 exit to quit
 
-🧩 How It Works
+## How It Works
 
 Tools:
 
