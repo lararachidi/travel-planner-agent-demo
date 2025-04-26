@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ## Set your OpenAI API key
 
-export OPENAI_API_KEY="sk-...your_key..."   # macOS/Linux
+export OPENAI_API_KEY="sk-...your_key..."  
 
 ## Running the Agent
 
