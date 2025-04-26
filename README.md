@@ -8,8 +8,6 @@ Agentic tool selection: dynamically chooses the right function based on your que
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 travel_planner_agent/
 ├── data/
