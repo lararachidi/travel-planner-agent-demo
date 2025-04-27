@@ -2,7 +2,7 @@
 
 An interactive command-line Travel Planner Agent built with the OpenAI Agents SDK and simple local datasets.
 
-Watch the demo video on YouTube: 
+Watch the demo video: 
 
 [![Watch on YouTube](https://img.youtube.com/vi/bfFInTrAeiA/0.jpg)](https://www.youtube.com/watch?v=bfFInTrAeiA)
 
